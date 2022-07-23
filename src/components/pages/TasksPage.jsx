@@ -56,7 +56,7 @@ export default function TasksPage() {
             </section>
          
             <div className="create-aacount">
-                <Link to="/"><a className="text-underline sign-in-form-btn"> Cerrar sesión </a></Link>
+                <Link to="/"><a  href="/#" className="text-underline sign-in-form-btn"> Cerrar sesión </a></Link>
             </div>
          </div>
       </div>

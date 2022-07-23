@@ -39,7 +39,7 @@ export default function LoginPage() {
                </div>
                
                <div className="create-aacount">
-                  ¿No tienes cuenta? <Link to="/register"><a className="go-to-sign-in">Registrate</a></Link>
+                  ¿No tienes cuenta? <Link to="/register"><a  href="/#" className="go-to-sign-in">Registrate</a></Link>
                </div>
                {/* <div className="create-aacount">
                   Not registered yet? <a href="javascript:;" className="text-underline sign-up-form-btn"> Create an Account</a>

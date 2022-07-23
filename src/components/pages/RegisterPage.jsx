@@ -33,7 +33,7 @@ export default function RegisterPage() {
                <button>Registrarme</button>
             </div>
             <div className="create-aacount">
-                ¿Registrado? <Link to="/"><a className="text-underline sign-in-form-btn"> Inicia sesión </a></Link>
+                ¿Registrado? <Link to="/"><a  href="/#" className="text-underline sign-in-form-btn"> Inicia sesión </a></Link>
             </div>
          </form>
       </div>
