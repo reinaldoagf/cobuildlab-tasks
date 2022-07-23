@@ -35,11 +35,11 @@ export default function LoginPage() {
                   </div> */}
                </div>
                <div className="form-group">
-                  <button>REGISTRARSE</button>
+                  <button>Iniciar sesión</button>
                </div>
                
                <div className="create-aacount">
-                  <Link to="/register"><a className="go-to-sign-in">Registrate</a></Link>
+                  ¿No tienes cuenta? <Link to="/register"><a className="go-to-sign-in">Registrate</a></Link>
                </div>
                {/* <div className="create-aacount">
                   Not registered yet? <a href="javascript:;" className="text-underline sign-up-form-btn"> Create an Account</a>
